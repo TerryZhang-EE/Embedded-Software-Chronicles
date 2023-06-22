@@ -23,10 +23,11 @@
 
 ## 第二章 官方库
 * [1. STM32 HAL库](Chapter2/README.md)
+    * [1.1 Temp](Chapter2/Section1/README.md)
 * [2. STM32 SPL库](Chapter2/README.md)
 * [3. RTOS 库文件](Chapter2/README.md)
-    * [3.1 FreeRTOS](Chapter2/README.md)
-    * [3.2 UCOS](Chapter2/README.md)
+    * [3.1 FreeRTOS](Chapter2/Section3/README.md)
+    * [3.2 UCOS](Chapter2/Section3/README.md)
 
 ## 第三章 进阶
 * [1. 算法](README.md)
